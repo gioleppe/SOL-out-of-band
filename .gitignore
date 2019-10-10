@@ -1,0 +1,10 @@
+OOB-server-*
+server
+client
+supervisor
+.vscode*
+*.log
+*.dSYM
+linkedlist.o
+measure.sh
+relazione.tex
